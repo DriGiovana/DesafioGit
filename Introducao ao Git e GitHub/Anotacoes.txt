@@ -3,3 +3,11 @@ link para download : https://git-scm.com/download/win
 Link para download Typora : https://typora.io/
 
 O Git Bash é um terminal extendido para otimizar o uso do Git.
+
+Códigos úteis para inclusão e atualização do GitHub:
+
+- git clone (Clona o repositorio criado no Github para sua máquina física)
+- git status (Informa o status do seu prejeto)
+- git add . ou git add -A (Adiciona o local das alterações no controle de versão)
+- git commit -m (realização de um conjunto de mudanças provisórias permanentes, marcando o fim de uma transação).
+- git push origin main (envio de todas as commit locais para a nuvem)
