@@ -1,0 +1,5 @@
+link para download : https://git-scm.com/download/win
+
+Link para download Typora : https://typora.io/
+
+O Git Bash é um terminal extendido para otimizar o uso do Git.
